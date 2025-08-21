@@ -56,7 +56,7 @@
         <push_message_only>false</push_message_only>
         <recipient_fields>assigned_to</recipient_fields>
         <recipient_groups/>
-        <recipient_users/>
+        <recipient_users>adrian.fedeles@gmail.com</recipient_users>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
@@ -69,7 +69,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>62ca2fc0c3ebe61096ef1a2ed4013198</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Overdue NeedIt Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -77,7 +77,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sysevent_email_action_62ca2fc0c3ebe61096ef1a2ed4013198</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-08-20 14:41:27</sys_updated_on>
+        <sys_updated_on>2025-08-21 07:56:36</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>
